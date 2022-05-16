@@ -1,6 +1,6 @@
-module github.com/BolajiOlajide/meeple
+module github.com/BolajiOlajide/mp
 
-go 1.17
+go 1.18
 
 require (
 	github.com/charmbracelet/bubbletea v0.20.0 // indirect
